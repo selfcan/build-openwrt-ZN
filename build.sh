@@ -15,7 +15,7 @@ if [ ! -n "$branch" ]; then
 fi
 
 if [ ! -n "$config" ]; then
-    config=gl-ax1800.config
+    config=znm2.config
 fi
 
 git clone -b $branch $repo ~/openwrt
