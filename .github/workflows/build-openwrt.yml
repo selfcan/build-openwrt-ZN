@@ -6,7 +6,7 @@ on:
       rep_url:
         description: '仓库地址'     
         required: true
-        default: 'https://github.com/JiaY-shi/owrt.git'
+        default: 'https://github.com/JiaY-shi/openwrt.git'
       branch_name:
         description: '分支'     
         required: true
