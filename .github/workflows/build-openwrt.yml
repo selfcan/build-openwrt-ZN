@@ -10,7 +10,7 @@ on:
       branch_name:
         description: '分支'     
         required: true
-        default: 'ipq60xx-devel'
+        default: 'ipq60xx-devel_nss'
       config_file:
         description: '配置文件'     
         required: true
