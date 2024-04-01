@@ -7,11 +7,11 @@ config=$3   #配置文件
 
 
 if [ ! -n "$repo" ]; then
-    repo=https://github.com/JiaY-shi/owrt.git
+    repo=https://github.com/JiaY-shi/openwrt.git
 fi
 
 if [ ! -n "$branch" ]; then
-    branch=ipq60xx-devel
+    branch=ipq60xx-devel_nss
 fi
 
 if [ ! -n "$config" ]; then
